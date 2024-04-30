@@ -20,7 +20,7 @@ Throughout this project, I used different libraries in Python to speed up my wor
 - Git and GitHub
 - Microsoft Copilot
 
-## Key Learnings 🔑
+## What I Learned 🔑
 Throughout this project, I gained insights into various aspects of data analysis, using my own examples to bring theoretical concepts closer to the real world. The projects I did include:
 
 - [Exploratory Data Analysis (EDA)](/Step1_Exploratory%20Data%20Analysis/Exploratory_Data_Analysis.ipynb)
